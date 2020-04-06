@@ -1,1 +1,1 @@
-Test
+.. include:: ../AUTHORS.rst
