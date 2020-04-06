@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Jacob (Owner & Lead Developer)
+* Anish (Co-Writer) 
 
 
